@@ -76,7 +76,7 @@
 <table>
   <tr>
       <td>
-        <img style = "filter: invert(1);" height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodePixelPioner&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" /> 
+        <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodePixelPioner&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" /> 
     </td>
   </tr>
 </table>
